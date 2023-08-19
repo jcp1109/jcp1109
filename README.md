@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcp1109
-- 👀 I’m interested in Software Development and Data Science
-- 🌱 I’m currently learning Python, JavaScript, and R
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Python, PowerShell, and Bash (Unix/Linux)
 - 💞️ I’m looking to collaborate on beginner to intermediate level projects
 - 📫 How to reach me: Through Github
 
